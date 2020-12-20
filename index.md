@@ -50,7 +50,7 @@ on September 27, 2020
 
 Description:
 
-Coronavirus Tracker for India. This gives the Coronavirus cases using the <i> 
+Coronavirus Tracker for India. This gives the Coronavirus cases using the **_Fetch API_**. You will be needing a JSON file for the cases
 
 ### Support or Contact
 
