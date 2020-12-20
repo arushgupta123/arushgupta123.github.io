@@ -46,9 +46,10 @@ on September 27, 2020
 
 
 
-### Jekyll Themes
+### Repos - Coronavirus-Tracker-India-in-HTML-JS
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arushgupta123/arushgupta123.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Description
+hi
 
 ### Support or Contact
 
