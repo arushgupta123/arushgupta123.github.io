@@ -1,32 +1,50 @@
 ## Welcome to my page!!
 
-Hi I am arushgupta123 (Github: [arushgupta123](https://github.com/arushgupta123)
+Hi I am arushgupta123 (Github: [arushgupta123](https://github.com/arushgupta123))
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I know a lot of languages like C++, HTML, CSS, JS and NodeJS..
 
-### Markdown
+I know a lot in each of them and have published a few repositories already
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Github History
 
-```markdown
-Syntax highlighted code block
+November 2020
+arushgupta123/Coronavirus-Tracker-India-in-HTML-JS 2 commits
+October 2020
+arushgupta123/Coronavirus-Tracker-India-in-HTML-JS 5 commits
+arushgupta123/hello-world 3 commits
+arushgupta123/Live-Editor-for-HTML-CSS-JS-with-JS- 1 commit
+arushgupta123/Quiz-In-JS 1 commit
+Created 3 repositories
+ arushgupta123/interactive-map
+Oct 29
+ arushgupta123/Live-Editor-for-HTML-CSS-JS-with-JS-
+ HTML
+Oct 24
+ arushgupta123/Coronavirus-Tracker-India-in-HTML-JS
+ HTML
+Oct 1
+September 2020
+arushgupta123/Quiz-In-JS 3 commits
+arushgupta123/hello-world 2 commits
+Created their first repository
+Sep 27
+Congratulations on your first repository!
+First repository
+ github-slideshow
+created 2 other repositories
+ arushgupta123/Quiz-In-JS
+ JavaScript
+Sep 28
+ arushgupta123/hello-world
+ HTML
+Sep 27
+Joined GitHub
+Joined GitHub!
+Joined GitHub
+on September 27, 2020
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
