@@ -48,8 +48,9 @@ on September 27, 2020
 
 ### Repos - Coronavirus-Tracker-India-in-HTML-JS
 
-Description
-hi
+Description:
+
+Coronavirus Tracker for India. This gives the Coronavirus cases using the <i> 
 
 ### Support or Contact
 
